@@ -18,8 +18,7 @@ This is a PHP project that allows users to submit reviews for a restaurant via a
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/pranavsmoghe/feedback-app.git
-
+   git clone https://github.com/sakshishetty632/Feedback-App.git
 2. Configure the database connection settings in the config.php file with your MySQL credentials:
 
     <?php
